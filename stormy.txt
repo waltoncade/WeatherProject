@@ -1,0 +1,16 @@
+Date,Humidity,TempH,TempL,%Chance,Total
+4/20/18,80,56,35,3,Partly Cloudy
+4/21/18,85,54,48,4, Cloudy
+4/22/18,89,54,36,2,Cloudy
+4/23/18,82,52,44,1,Cloudy
+4/24/18,90,48,41,4,Cloudy
+4/25/18,92,51,38,4,Cloudy
+4/26/18,87,58,39,5,Partly Cloudy
+4/27/18,85,59,41,2,Cloudy
+4/28/18,79,44,42,2,Cloudy
+4/29/18,87,49,41,3,Partly Cloudy
+4/30/18,90,54,40,1,Partly Cloudy
+4/31/18,92,56,40,4,Cloudy
+5/1/18,95,55,38,2,Cloudy
+5/2/18,89,62,36,3,Cloudy
+
